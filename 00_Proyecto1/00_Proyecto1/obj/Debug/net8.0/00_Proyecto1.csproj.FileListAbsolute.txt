@@ -1,0 +1,15 @@
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\00_Proyecto1\00_Proyecto1\bin\Debug\net8.0\00_Proyecto1.exe
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\00_Proyecto1\00_Proyecto1\bin\Debug\net8.0\00_Proyecto1.deps.json
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\00_Proyecto1\00_Proyecto1\bin\Debug\net8.0\00_Proyecto1.runtimeconfig.json
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\00_Proyecto1\00_Proyecto1\bin\Debug\net8.0\00_Proyecto1.dll
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\00_Proyecto1\00_Proyecto1\bin\Debug\net8.0\00_Proyecto1.pdb
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\00_Proyecto1\00_Proyecto1\obj\Debug\net8.0\00_Proyecto1.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\00_Proyecto1\00_Proyecto1\obj\Debug\net8.0\00_Proyecto1.AssemblyInfoInputs.cache
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\00_Proyecto1\00_Proyecto1\obj\Debug\net8.0\00_Proyecto1.AssemblyInfo.cs
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\00_Proyecto1\00_Proyecto1\obj\Debug\net8.0\00_Proyecto1.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\00_Proyecto1\00_Proyecto1\obj\Debug\net8.0\00_Proyecto1.sourcelink.json
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\00_Proyecto1\00_Proyecto1\obj\Debug\net8.0\00_Proyecto1.dll
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\00_Proyecto1\00_Proyecto1\obj\Debug\net8.0\refint\00_Proyecto1.dll
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\00_Proyecto1\00_Proyecto1\obj\Debug\net8.0\00_Proyecto1.pdb
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\00_Proyecto1\00_Proyecto1\obj\Debug\net8.0\00_Proyecto1.genruntimeconfig.cache
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\00_Proyecto1\00_Proyecto1\obj\Debug\net8.0\ref\00_Proyecto1.dll
