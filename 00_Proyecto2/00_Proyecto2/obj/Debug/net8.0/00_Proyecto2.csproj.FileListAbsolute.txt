@@ -1,0 +1,15 @@
+P:\Programas UNAH\2025-3\Programacion II\00_Proyecto2\00_Proyecto2\bin\Debug\net8.0\00_Proyecto2.exe
+P:\Programas UNAH\2025-3\Programacion II\00_Proyecto2\00_Proyecto2\bin\Debug\net8.0\00_Proyecto2.deps.json
+P:\Programas UNAH\2025-3\Programacion II\00_Proyecto2\00_Proyecto2\bin\Debug\net8.0\00_Proyecto2.runtimeconfig.json
+P:\Programas UNAH\2025-3\Programacion II\00_Proyecto2\00_Proyecto2\bin\Debug\net8.0\00_Proyecto2.dll
+P:\Programas UNAH\2025-3\Programacion II\00_Proyecto2\00_Proyecto2\bin\Debug\net8.0\00_Proyecto2.pdb
+P:\Programas UNAH\2025-3\Programacion II\00_Proyecto2\00_Proyecto2\obj\Debug\net8.0\00_Proyecto2.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2025-3\Programacion II\00_Proyecto2\00_Proyecto2\obj\Debug\net8.0\00_Proyecto2.AssemblyInfoInputs.cache
+P:\Programas UNAH\2025-3\Programacion II\00_Proyecto2\00_Proyecto2\obj\Debug\net8.0\00_Proyecto2.AssemblyInfo.cs
+P:\Programas UNAH\2025-3\Programacion II\00_Proyecto2\00_Proyecto2\obj\Debug\net8.0\00_Proyecto2.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2025-3\Programacion II\00_Proyecto2\00_Proyecto2\obj\Debug\net8.0\00_Proyecto2.sourcelink.json
+P:\Programas UNAH\2025-3\Programacion II\00_Proyecto2\00_Proyecto2\obj\Debug\net8.0\00_Proyecto2.dll
+P:\Programas UNAH\2025-3\Programacion II\00_Proyecto2\00_Proyecto2\obj\Debug\net8.0\refint\00_Proyecto2.dll
+P:\Programas UNAH\2025-3\Programacion II\00_Proyecto2\00_Proyecto2\obj\Debug\net8.0\00_Proyecto2.pdb
+P:\Programas UNAH\2025-3\Programacion II\00_Proyecto2\00_Proyecto2\obj\Debug\net8.0\00_Proyecto2.genruntimeconfig.cache
+P:\Programas UNAH\2025-3\Programacion II\00_Proyecto2\00_Proyecto2\obj\Debug\net8.0\ref\00_Proyecto2.dll
