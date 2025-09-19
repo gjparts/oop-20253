@@ -112,6 +112,15 @@
                     Console.WriteLine("B es mayor que A");
 
                 //Obtener la diferencia en tiempo para dos fechas y horas
+                TimeSpan diferencia;
+                if (a > b)
+                    diferencia = a - b;
+                else
+                    diferencia = b - a;
+
+                Console.WriteLine("Dif. en dias entre A y B: "+diferencia.Days);
+                Console.WriteLine("Dif. en segundos entre A y B: " + diferencia.TotalSeconds);
+                Console.WriteLine("Dif. en minutos entre A y B: " + diferencia.TotalMinutes);
             }
             catch (Exception ex)
             {
