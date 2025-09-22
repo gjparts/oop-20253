@@ -1,0 +1,15 @@
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\02_Clases\02_Clases\bin\Debug\net8.0\02_Clases.exe
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\02_Clases\02_Clases\bin\Debug\net8.0\02_Clases.deps.json
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\02_Clases\02_Clases\bin\Debug\net8.0\02_Clases.runtimeconfig.json
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\02_Clases\02_Clases\bin\Debug\net8.0\02_Clases.dll
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\02_Clases\02_Clases\bin\Debug\net8.0\02_Clases.pdb
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\02_Clases\02_Clases\obj\Debug\net8.0\02_Clases.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\02_Clases\02_Clases\obj\Debug\net8.0\02_Clases.AssemblyInfoInputs.cache
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\02_Clases\02_Clases\obj\Debug\net8.0\02_Clases.AssemblyInfo.cs
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\02_Clases\02_Clases\obj\Debug\net8.0\02_Clases.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\02_Clases\02_Clases\obj\Debug\net8.0\02_Clases.sourcelink.json
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\02_Clases\02_Clases\obj\Debug\net8.0\02_Clases.dll
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\02_Clases\02_Clases\obj\Debug\net8.0\refint\02_Clases.dll
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\02_Clases\02_Clases\obj\Debug\net8.0\02_Clases.pdb
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\02_Clases\02_Clases\obj\Debug\net8.0\02_Clases.genruntimeconfig.cache
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\02_Clases\02_Clases\obj\Debug\net8.0\ref\02_Clases.dll
