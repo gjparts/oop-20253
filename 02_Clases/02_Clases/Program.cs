@@ -38,6 +38,16 @@
 
             Persona per3 = new Persona("Filomeno Colinas", 77, 'M', "1111111111111");
             per3.Imprimir();
+
+            Carro c1 = new Carro();
+            c1.Imprimir();
+
+            Carro c2 = new Carro("Honda", "CRV", "Azul", 2016);
+            c2.Imprimir();
+
+            Empleado e1 = new Empleado();
+            e1.Edad = 18;
+            Console.WriteLine(e1.Edad);
         }
     }
 }
