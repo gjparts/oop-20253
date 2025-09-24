@@ -45,9 +45,18 @@
             Carro c2 = new Carro("Honda", "CRV", "Azul", 2016);
             c2.Imprimir();
 
-            Empleado e1 = new Empleado();
-            e1.Edad = 18;
-            Console.WriteLine(e1.Edad);
+            Empleado em1 = new Empleado("Estevancito Maravilla", 80, 'M');
+            em1.Imprimir();
+
+            Empleado em2 = new Empleado("Dave Mustaine", 50, 'M', 50000, 'P');
+            em2.Imprimir();
+
+            //gracias al get del validador publico se puede tambien leer datos
+            //de campos privados:
+            Console.WriteLine("La edad de em2 es "+em2.Edad);
+            //tambien puede utilizar el set del validador publico:
+            em2.Edad = 55;
+            Console.WriteLine($"La edad de em2 es {em2.Edad}");
         }
     }
 }

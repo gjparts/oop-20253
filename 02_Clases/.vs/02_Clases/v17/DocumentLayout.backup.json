@@ -43,8 +43,7 @@
               "ViewState": "AgIAAEEAAAAAAAAAAAAAwEwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T15:20:18.836Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -58,7 +57,7 @@
               "RelativeDocumentMoniker": "02_Clases\\Empleado.cs",
               "ToolTip": "P:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\02_Clases\\02_Clases\\Empleado.cs",
               "RelativeToolTip": "02_Clases\\Empleado.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAA2wC0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T15:41:53.313Z",
               "EditorCaption": ""
@@ -73,8 +72,7 @@
               "RelativeToolTip": "02_Clases\\Carro.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAADQAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T15:28:23.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T15:28:23.787Z"
             },
             {
               "$type": "Document",
@@ -86,8 +84,7 @@
               "RelativeToolTip": "02_Clases\\Mascota.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T15:42:22.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T15:42:22.436Z"
             },
             {
               "$type": "Document",
@@ -97,7 +94,7 @@
               "RelativeDocumentMoniker": "02_Clases\\Program.cs",
               "ToolTip": "P:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\02_Clases\\02_Clases\\Program.cs",
               "RelativeToolTip": "02_Clases\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwDEAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDoAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T15:40:53.919Z",
               "EditorCaption": ""
