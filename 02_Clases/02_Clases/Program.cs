@@ -57,6 +57,18 @@
             //tambien puede utilizar el set del validador publico:
             em2.Edad = 55;
             Console.WriteLine($"La edad de em2 es {em2.Edad}");
+
+            //No olviden tambien que las excepciones disparadas con throw en las
+            //clases pueden ser interceptadas con try-catch
+            try
+            {
+                em2.Edad = -50;
+            }
+            catch (Exception ex)
+            {
+                //asi se imprime el mensaje enviado por throw:
+                Console.WriteLine(ex.Message);
+            }
         }
     }
 }
