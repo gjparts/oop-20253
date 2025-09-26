@@ -69,6 +69,18 @@
                 //asi se imprime el mensaje enviado por throw:
                 Console.WriteLine(ex.Message);
             }
+
+            Estudiante es1 = new Estudiante("Josue Portillo", "20012002049", "1234123412345", 42,
+                                            'M', 84, "Ing. Sistemas");
+            es1.Imprimir();
+
+            Instructor ins1 = new Instructor();
+            ins1.Nombre = "Rambo Perez";
+            ins1.Edad = 30;
+            ins1.Genero = Enums.Genero.Masculino;
+            ins1.TipoContrato = Enums.TipoContrato.Permanente;
+            ins1.TipoInstructor = Enums.TipoInstructor.General;
+
         }
     }
 }
