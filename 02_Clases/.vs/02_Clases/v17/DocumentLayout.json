@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -66,6 +66,10 @@
               "IsPinned": true
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Instructor.cs",
@@ -75,8 +79,7 @@
               "RelativeToolTip": "02_Clases\\Instructor.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T15:51:40.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T15:51:40.324Z"
             },
             {
               "$type": "Document",
@@ -88,8 +91,7 @@
               "RelativeToolTip": "02_Clases\\Enums\\TipoInstructor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T15:48:44.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T15:48:44.965Z"
             },
             {
               "$type": "Document",
@@ -99,7 +101,7 @@
               "RelativeDocumentMoniker": "02_Clases\\Program.cs",
               "ToolTip": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\02_Clases\\02_Clases\\Program.cs",
               "RelativeToolTip": "02_Clases\\Program.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAowFIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAowE8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T15:40:53.919Z",
               "EditorCaption": ""
@@ -114,8 +116,7 @@
               "RelativeToolTip": "02_Clases\\Enums\\TipoContrato.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T15:46:57.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T15:46:57.659Z"
             },
             {
               "$type": "Document",
@@ -127,12 +128,7 @@
               "RelativeToolTip": "02_Clases\\Enums\\Genero.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T15:43:05.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+              "WhenOpened": "2025-09-26T15:43:05.841Z"
             },
             {
               "$type": "Document",
@@ -144,8 +140,7 @@
               "RelativeToolTip": "02_Clases\\Estudiante.cs",
               "ViewState": "AgIAAGIAAAAAAAAAAAA2wG8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T15:09:43.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T15:09:43.585Z"
             },
             {
               "$type": "Document",
