@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\05_AsociacionClases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF36E2E-D4B3-4443-BCC8-ACEC27574325}|05_AsociacionClases\\05_AsociacionClases.csproj|c:\\programas unah\\2025-3\\programacion orientada a objetos\\05_asociacionclases\\05_asociacionclases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF36E2E-D4B3-4443-BCC8-ACEC27574325}|05_AsociacionClases\\05_AsociacionClases.csproj|solutionrelative:05_asociacionclases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF36E2E-D4B3-4443-BCC8-ACEC27574325}|05_AsociacionClases\\05_AsociacionClases.csproj|c:\\programas unah\\2025-3\\programacion orientada a objetos\\05_asociacionclases\\05_asociacionclases\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF36E2E-D4B3-4443-BCC8-ACEC27574325}|05_AsociacionClases\\05_AsociacionClases.csproj|solutionrelative:05_asociacionclases\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF36E2E-D4B3-4443-BCC8-ACEC27574325}|05_AsociacionClases\\05_AsociacionClases.csproj|c:\\programas unah\\2025-3\\programacion orientada a objetos\\05_asociacionclases\\05_asociacionclases\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF36E2E-D4B3-4443-BCC8-ACEC27574325}|05_AsociacionClases\\05_AsociacionClases.csproj|solutionrelative:05_asociacionclases\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF36E2E-D4B3-4443-BCC8-ACEC27574325}|05_AsociacionClases\\05_AsociacionClases.csproj|c:\\programas unah\\2025-3\\programacion orientada a objetos\\05_asociacionclases\\05_asociacionclases\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF36E2E-D4B3-4443-BCC8-ACEC27574325}|05_AsociacionClases\\05_AsociacionClases.csproj|solutionrelative:05_asociacionclases\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF36E2E-D4B3-4443-BCC8-ACEC27574325}|05_AsociacionClases\\05_AsociacionClases.csproj|c:\\programas unah\\2025-3\\programacion orientada a objetos\\05_asociacionclases\\05_asociacionclases\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF36E2E-D4B3-4443-BCC8-ACEC27574325}|05_AsociacionClases\\05_AsociacionClases.csproj|solutionrelative:05_asociacionclases\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF36E2E-D4B3-4443-BCC8-ACEC27574325}|05_AsociacionClases\\05_AsociacionClases.csproj|c:\\programas unah\\2025-3\\programacion orientada a objetos\\05_asociacionclases\\05_asociacionclases\\barrio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF36E2E-D4B3-4443-BCC8-ACEC27574325}|05_AsociacionClases\\05_AsociacionClases.csproj|solutionrelative:05_asociacionclases\\barrio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF36E2E-D4B3-4443-BCC8-ACEC27574325}|05_AsociacionClases\\05_AsociacionClases.csproj|c:\\programas unah\\2025-3\\programacion orientada a objetos\\05_asociacionclases\\05_asociacionclases\\enums\\jornadalaboral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EF36E2E-D4B3-4443-BCC8-ACEC27574325}|05_AsociacionClases\\05_AsociacionClases.csproj|solutionrelative:05_asociacionclases\\enums\\jornadalaboral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\05_AsociacionClases\\05_AsociacionClases\\Estudiante.cs",
+              "RelativeDocumentMoniker": "05_AsociacionClases\\Estudiante.cs",
+              "ToolTip": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\05_AsociacionClases\\05_AsociacionClases\\Estudiante.cs",
+              "RelativeToolTip": "05_AsociacionClases\\Estudiante.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAtwEkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:26:50.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cargo.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\05_AsociacionClases\\05_AsociacionClases\\Cargo.cs",
+              "RelativeDocumentMoniker": "05_AsociacionClases\\Cargo.cs",
+              "ToolTip": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\05_AsociacionClases\\05_AsociacionClases\\Cargo.cs",
+              "RelativeToolTip": "05_AsociacionClases\\Cargo.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwC8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:20:54.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\05_AsociacionClases\\05_AsociacionClases\\Empresa.cs",
+              "RelativeDocumentMoniker": "05_AsociacionClases\\Empresa.cs",
+              "ToolTip": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\05_AsociacionClases\\05_AsociacionClases\\Empresa.cs",
+              "RelativeToolTip": "05_AsociacionClases\\Empresa.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:15:29.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Direccion.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\05_AsociacionClases\\05_AsociacionClases\\Direccion.cs",
+              "RelativeDocumentMoniker": "05_AsociacionClases\\Direccion.cs",
+              "ToolTip": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\05_AsociacionClases\\05_AsociacionClases\\Direccion.cs",
+              "RelativeToolTip": "05_AsociacionClases\\Direccion.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:10:58.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Barrio.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\05_AsociacionClases\\05_AsociacionClases\\Barrio.cs",
+              "RelativeDocumentMoniker": "05_AsociacionClases\\Barrio.cs",
+              "ToolTip": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\05_AsociacionClases\\05_AsociacionClases\\Barrio.cs",
+              "RelativeToolTip": "05_AsociacionClases\\Barrio.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:07:47.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JornadaLaboral.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\05_AsociacionClases\\05_AsociacionClases\\Enums\\JornadaLaboral.cs",
+              "RelativeDocumentMoniker": "05_AsociacionClases\\Enums\\JornadaLaboral.cs",
+              "ToolTip": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\05_AsociacionClases\\05_AsociacionClases\\Enums\\JornadaLaboral.cs",
+              "RelativeToolTip": "05_AsociacionClases\\Enums\\JornadaLaboral.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:06:29.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\05_AsociacionClases\\05_AsociacionClases\\Program.cs",
+              "RelativeDocumentMoniker": "05_AsociacionClases\\Program.cs",
+              "ToolTip": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\05_AsociacionClases\\05_AsociacionClases\\Program.cs",
+              "RelativeToolTip": "05_AsociacionClases\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA7wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:05:46.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
