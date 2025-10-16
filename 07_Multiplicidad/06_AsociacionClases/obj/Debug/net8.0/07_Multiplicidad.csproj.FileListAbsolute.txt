@@ -1,0 +1,15 @@
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\07_Multiplicidad\06_AsociacionClases\bin\Debug\net8.0\07_Multiplicidad.exe
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\07_Multiplicidad\06_AsociacionClases\bin\Debug\net8.0\07_Multiplicidad.deps.json
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\07_Multiplicidad\06_AsociacionClases\bin\Debug\net8.0\07_Multiplicidad.runtimeconfig.json
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\07_Multiplicidad\06_AsociacionClases\bin\Debug\net8.0\07_Multiplicidad.dll
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\07_Multiplicidad\06_AsociacionClases\bin\Debug\net8.0\07_Multiplicidad.pdb
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\07_Multiplicidad\06_AsociacionClases\obj\Debug\net8.0\07_Multiplicidad.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\07_Multiplicidad\06_AsociacionClases\obj\Debug\net8.0\07_Multiplicidad.AssemblyInfoInputs.cache
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\07_Multiplicidad\06_AsociacionClases\obj\Debug\net8.0\07_Multiplicidad.AssemblyInfo.cs
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\07_Multiplicidad\06_AsociacionClases\obj\Debug\net8.0\07_Multiplicidad.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\07_Multiplicidad\06_AsociacionClases\obj\Debug\net8.0\07_Multiplicidad.sourcelink.json
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\07_Multiplicidad\06_AsociacionClases\obj\Debug\net8.0\07_Multiplicidad.dll
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\07_Multiplicidad\06_AsociacionClases\obj\Debug\net8.0\refint\07_Multiplicidad.dll
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\07_Multiplicidad\06_AsociacionClases\obj\Debug\net8.0\07_Multiplicidad.pdb
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\07_Multiplicidad\06_AsociacionClases\obj\Debug\net8.0\07_Multiplicidad.genruntimeconfig.cache
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\07_Multiplicidad\06_AsociacionClases\obj\Debug\net8.0\ref\07_Multiplicidad.dll
