@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\09_Multiplicidad\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DD348567-1614-4680-BCA7-8C2A94DD2EF7}|09_Multiplicidad\\09_Multiplicidad.csproj|c:\\programas unah\\2025-3\\programacion orientada a objetos\\09_multiplicidad\\09_multiplicidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD348567-1614-4680-BCA7-8C2A94DD2EF7}|09_Multiplicidad\\09_Multiplicidad.csproj|solutionrelative:09_multiplicidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD348567-1614-4680-BCA7-8C2A94DD2EF7}|09_Multiplicidad\\09_Multiplicidad.csproj|c:\\programas unah\\2025-3\\programacion orientada a objetos\\09_multiplicidad\\09_multiplicidad\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD348567-1614-4680-BCA7-8C2A94DD2EF7}|09_Multiplicidad\\09_Multiplicidad.csproj|solutionrelative:09_multiplicidad\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DD348567-1614-4680-BCA7-8C2A94DD2EF7}|09_Multiplicidad\\09_Multiplicidad.csproj|c:\\programas unah\\2025-3\\programacion orientada a objetos\\09_multiplicidad\\09_multiplicidad\\diploma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD348567-1614-4680-BCA7-8C2A94DD2EF7}|09_Multiplicidad\\09_Multiplicidad.csproj|solutionrelative:09_multiplicidad\\diploma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD348567-1614-4680-BCA7-8C2A94DD2EF7}|09_Multiplicidad\\09_Multiplicidad.csproj|c:\\programas unah\\2025-3\\programacion orientada a objetos\\09_multiplicidad\\09_multiplicidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD348567-1614-4680-BCA7-8C2A94DD2EF7}|09_Multiplicidad\\09_Multiplicidad.csproj|solutionrelative:09_multiplicidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,20 +46,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\09_Multiplicidad\\09_Multiplicidad\\Persona.cs",
               "RelativeDocumentMoniker": "09_Multiplicidad\\Persona.cs",
               "ToolTip": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\09_Multiplicidad\\09_Multiplicidad\\Persona.cs",
               "RelativeToolTip": "09_Multiplicidad\\Persona.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAgwGQAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwF8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T15:23:35.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Empresa.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\09_Multiplicidad\\09_Multiplicidad\\Empresa.cs",
               "RelativeDocumentMoniker": "09_Multiplicidad\\Empresa.cs",
@@ -67,12 +67,11 @@
               "RelativeToolTip": "09_Multiplicidad\\Empresa.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAA1wCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:18:20.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T15:18:20.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Direccion.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\09_Multiplicidad\\09_Multiplicidad\\Direccion.cs",
               "RelativeDocumentMoniker": "09_Multiplicidad\\Direccion.cs",
@@ -80,12 +79,11 @@
               "RelativeToolTip": "09_Multiplicidad\\Direccion.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:14:00.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T15:14:00.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Barrio.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\09_Multiplicidad\\09_Multiplicidad\\Barrio.cs",
               "RelativeDocumentMoniker": "09_Multiplicidad\\Barrio.cs",
@@ -93,12 +91,11 @@
               "RelativeToolTip": "09_Multiplicidad\\Barrio.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:11:45.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T15:11:45.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Mascota.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\09_Multiplicidad\\09_Multiplicidad\\Mascota.cs",
               "RelativeDocumentMoniker": "09_Multiplicidad\\Mascota.cs",
@@ -106,12 +103,11 @@
               "RelativeToolTip": "09_Multiplicidad\\Mascota.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:10:11.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T15:10:11.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Diploma.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\09_Multiplicidad\\09_Multiplicidad\\Diploma.cs",
               "RelativeDocumentMoniker": "09_Multiplicidad\\Diploma.cs",
@@ -119,18 +115,17 @@
               "RelativeToolTip": "09_Multiplicidad\\Diploma.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:08:32.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T15:08:32.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\09_Multiplicidad\\09_Multiplicidad\\Program.cs",
               "RelativeDocumentMoniker": "09_Multiplicidad\\Program.cs",
               "ToolTip": "C:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\09_Multiplicidad\\09_Multiplicidad\\Program.cs",
               "RelativeToolTip": "09_Multiplicidad\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwDoAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T15:07:52.862Z",
               "EditorCaption": ""
