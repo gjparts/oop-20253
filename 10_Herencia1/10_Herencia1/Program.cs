@@ -35,6 +35,15 @@
             Console.WriteLine($"Cargo: {em2.Cargo}");
             em2.Saludar();
             em2.Trabajar();
+
+            Practicante pra1 = new Practicante("Mario Verde", 42, Enums.Genero.Masculino, 3000, 4);
+            pra1.Saludar();
+            pra1.Trabajar();
+            
+            Catedratico cat1 = new Catedratico("Gerardo", 43, Enums.Genero.Masculino, 10000, "Perito Mercantil");
+            cat1.Saludar();
+            cat1.Trabajar();
+            cat1.Educar();
         }
     }
 }
