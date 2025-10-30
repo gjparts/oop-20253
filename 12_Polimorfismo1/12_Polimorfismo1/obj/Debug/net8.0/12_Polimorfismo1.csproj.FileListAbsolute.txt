@@ -1,0 +1,15 @@
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\12_Polimorfismo1\12_Polimorfismo1\bin\Debug\net8.0\12_Polimorfismo1.exe
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\12_Polimorfismo1\12_Polimorfismo1\bin\Debug\net8.0\12_Polimorfismo1.deps.json
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\12_Polimorfismo1\12_Polimorfismo1\bin\Debug\net8.0\12_Polimorfismo1.runtimeconfig.json
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\12_Polimorfismo1\12_Polimorfismo1\bin\Debug\net8.0\12_Polimorfismo1.dll
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\12_Polimorfismo1\12_Polimorfismo1\bin\Debug\net8.0\12_Polimorfismo1.pdb
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\12_Polimorfismo1\12_Polimorfismo1\obj\Debug\net8.0\12_Polimorfismo1.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\12_Polimorfismo1\12_Polimorfismo1\obj\Debug\net8.0\12_Polimorfismo1.AssemblyInfoInputs.cache
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\12_Polimorfismo1\12_Polimorfismo1\obj\Debug\net8.0\12_Polimorfismo1.AssemblyInfo.cs
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\12_Polimorfismo1\12_Polimorfismo1\obj\Debug\net8.0\12_Polimorfismo1.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\12_Polimorfismo1\12_Polimorfismo1\obj\Debug\net8.0\12_Polimorfismo1.sourcelink.json
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\12_Polimorfismo1\12_Polimorfismo1\obj\Debug\net8.0\12_Polimorfismo1.dll
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\12_Polimorfismo1\12_Polimorfismo1\obj\Debug\net8.0\refint\12_Polimorfismo1.dll
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\12_Polimorfismo1\12_Polimorfismo1\obj\Debug\net8.0\12_Polimorfismo1.pdb
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\12_Polimorfismo1\12_Polimorfismo1\obj\Debug\net8.0\12_Polimorfismo1.genruntimeconfig.cache
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\12_Polimorfismo1\12_Polimorfismo1\obj\Debug\net8.0\ref\12_Polimorfismo1.dll
