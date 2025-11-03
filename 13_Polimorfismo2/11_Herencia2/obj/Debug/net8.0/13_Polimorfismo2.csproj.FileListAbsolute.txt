@@ -1,0 +1,15 @@
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\13_Polimorfismo2\11_Herencia2\bin\Debug\net8.0\13_Polimorfismo2.exe
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\13_Polimorfismo2\11_Herencia2\bin\Debug\net8.0\13_Polimorfismo2.deps.json
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\13_Polimorfismo2\11_Herencia2\bin\Debug\net8.0\13_Polimorfismo2.runtimeconfig.json
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\13_Polimorfismo2\11_Herencia2\bin\Debug\net8.0\13_Polimorfismo2.dll
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\13_Polimorfismo2\11_Herencia2\bin\Debug\net8.0\13_Polimorfismo2.pdb
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\13_Polimorfismo2\11_Herencia2\obj\Debug\net8.0\13_Polimorfismo2.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\13_Polimorfismo2\11_Herencia2\obj\Debug\net8.0\13_Polimorfismo2.AssemblyInfoInputs.cache
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\13_Polimorfismo2\11_Herencia2\obj\Debug\net8.0\13_Polimorfismo2.AssemblyInfo.cs
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\13_Polimorfismo2\11_Herencia2\obj\Debug\net8.0\13_Polimorfismo2.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\13_Polimorfismo2\11_Herencia2\obj\Debug\net8.0\13_Polimorfismo2.sourcelink.json
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\13_Polimorfismo2\11_Herencia2\obj\Debug\net8.0\13_Polimorfismo2.dll
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\13_Polimorfismo2\11_Herencia2\obj\Debug\net8.0\refint\13_Polimorfismo2.dll
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\13_Polimorfismo2\11_Herencia2\obj\Debug\net8.0\13_Polimorfismo2.pdb
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\13_Polimorfismo2\11_Herencia2\obj\Debug\net8.0\13_Polimorfismo2.genruntimeconfig.cache
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\13_Polimorfismo2\11_Herencia2\obj\Debug\net8.0\ref\13_Polimorfismo2.dll

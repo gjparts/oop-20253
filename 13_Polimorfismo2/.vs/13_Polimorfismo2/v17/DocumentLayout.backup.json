@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\13_Polimorfismo2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE19E43F-7329-4DD4-8396-F51A5AB72D6C}|11_Herencia2\\11_Herencia2.csproj|p:\\programas unah\\2025-3\\programacion orientada a objetos\\13_polimorfismo2\\11_herencia2\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE19E43F-7329-4DD4-8396-F51A5AB72D6C}|11_Herencia2\\11_Herencia2.csproj|solutionrelative:11_herencia2\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE19E43F-7329-4DD4-8396-F51A5AB72D6C}|11_Herencia2\\11_Herencia2.csproj|p:\\programas unah\\2025-3\\programacion orientada a objetos\\13_polimorfismo2\\11_herencia2\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE19E43F-7329-4DD4-8396-F51A5AB72D6C}|11_Herencia2\\11_Herencia2.csproj|solutionrelative:11_herencia2\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE19E43F-7329-4DD4-8396-F51A5AB72D6C}|11_Herencia2\\11_Herencia2.csproj|p:\\programas unah\\2025-3\\programacion orientada a objetos\\13_polimorfismo2\\11_herencia2\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE19E43F-7329-4DD4-8396-F51A5AB72D6C}|11_Herencia2\\11_Herencia2.csproj|solutionrelative:11_herencia2\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE19E43F-7329-4DD4-8396-F51A5AB72D6C}|11_Herencia2\\11_Herencia2.csproj|p:\\programas unah\\2025-3\\programacion orientada a objetos\\13_polimorfismo2\\11_herencia2\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE19E43F-7329-4DD4-8396-F51A5AB72D6C}|11_Herencia2\\11_Herencia2.csproj|solutionrelative:11_herencia2\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE19E43F-7329-4DD4-8396-F51A5AB72D6C}|11_Herencia2\\11_Herencia2.csproj|p:\\programas unah\\2025-3\\programacion orientada a objetos\\13_polimorfismo2\\11_herencia2\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE19E43F-7329-4DD4-8396-F51A5AB72D6C}|11_Herencia2\\11_Herencia2.csproj|solutionrelative:11_herencia2\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE19E43F-7329-4DD4-8396-F51A5AB72D6C}|11_Herencia2\\11_Herencia2.csproj|p:\\programas unah\\2025-3\\programacion orientada a objetos\\13_polimorfismo2\\11_herencia2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE19E43F-7329-4DD4-8396-F51A5AB72D6C}|11_Herencia2\\11_Herencia2.csproj|solutionrelative:11_herencia2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE19E43F-7329-4DD4-8396-F51A5AB72D6C}|11_Herencia2\\11_Herencia2.csproj|p:\\programas unah\\2025-3\\programacion orientada a objetos\\13_polimorfismo2\\11_herencia2\\subtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE19E43F-7329-4DD4-8396-F51A5AB72D6C}|11_Herencia2\\11_Herencia2.csproj|solutionrelative:11_herencia2\\subtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE19E43F-7329-4DD4-8396-F51A5AB72D6C}|11_Herencia2\\11_Herencia2.csproj|p:\\programas unah\\2025-3\\programacion orientada a objetos\\13_polimorfismo2\\11_herencia2\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE19E43F-7329-4DD4-8396-F51A5AB72D6C}|11_Herencia2\\11_Herencia2.csproj|solutionrelative:11_herencia2\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Video.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\13_Polimorfismo2\\11_Herencia2\\Video.cs",
+              "RelativeDocumentMoniker": "11_Herencia2\\Video.cs",
+              "ToolTip": "P:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\13_Polimorfismo2\\11_Herencia2\\Video.cs",
+              "RelativeToolTip": "11_Herencia2\\Video.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:43:06.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Audio.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\13_Polimorfismo2\\11_Herencia2\\Audio.cs",
+              "RelativeDocumentMoniker": "11_Herencia2\\Audio.cs",
+              "ToolTip": "P:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\13_Polimorfismo2\\11_Herencia2\\Audio.cs",
+              "RelativeToolTip": "11_Herencia2\\Audio.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:39:59.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Media.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\13_Polimorfismo2\\11_Herencia2\\Media.cs",
+              "RelativeDocumentMoniker": "11_Herencia2\\Media.cs",
+              "ToolTip": "P:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\13_Polimorfismo2\\11_Herencia2\\Media.cs",
+              "RelativeToolTip": "11_Herencia2\\Media.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:34:26.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Document.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\13_Polimorfismo2\\11_Herencia2\\Document.cs",
+              "RelativeDocumentMoniker": "11_Herencia2\\Document.cs",
+              "ToolTip": "P:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\13_Polimorfismo2\\11_Herencia2\\Document.cs",
+              "RelativeToolTip": "11_Herencia2\\Document.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:28:46.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "File.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\13_Polimorfismo2\\11_Herencia2\\File.cs",
+              "RelativeDocumentMoniker": "11_Herencia2\\File.cs",
+              "ToolTip": "P:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\13_Polimorfismo2\\11_Herencia2\\File.cs",
+              "RelativeToolTip": "11_Herencia2\\File.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:22:43.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Subtitle.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\13_Polimorfismo2\\11_Herencia2\\Subtitle.cs",
+              "RelativeDocumentMoniker": "11_Herencia2\\Subtitle.cs",
+              "ToolTip": "P:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\13_Polimorfismo2\\11_Herencia2\\Subtitle.cs",
+              "RelativeToolTip": "11_Herencia2\\Subtitle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:12:10.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Author.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\13_Polimorfismo2\\11_Herencia2\\Author.cs",
+              "RelativeDocumentMoniker": "11_Herencia2\\Author.cs",
+              "ToolTip": "P:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\13_Polimorfismo2\\11_Herencia2\\Author.cs",
+              "RelativeToolTip": "11_Herencia2\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:08:58.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\13_Polimorfismo2\\11_Herencia2\\Program.cs",
+              "RelativeDocumentMoniker": "11_Herencia2\\Program.cs",
+              "ToolTip": "P:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\13_Polimorfismo2\\11_Herencia2\\Program.cs",
+              "RelativeToolTip": "11_Herencia2\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:07:50.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
