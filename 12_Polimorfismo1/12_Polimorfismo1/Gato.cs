@@ -46,5 +46,10 @@ namespace _12_Polimorfismo1
             Console.WriteLine($"Tiene pelaje: { ( this.TienePelaje == true ? "Si" : "No" ) }");
             Console.ResetColor();
         }
+        //programar nuestro propio toString()
+        public override string ToString()
+        {
+            return "Solo soy un gato";
+        }
     }
 }
