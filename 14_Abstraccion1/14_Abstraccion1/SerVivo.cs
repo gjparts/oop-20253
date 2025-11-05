@@ -33,5 +33,30 @@ namespace _14_Abstraccion1
             this.Desplazarse();
             this.Dormir();
         }
+
+        /*Metodos Estaticos: son aquellos que se pueden usar sin necesidad de instanciar
+         un nuevo objeto de esta clase. Siempre son static porque esto indica que van a estar
+        disponibles en la definicion de la clase.*/
+        public static void Algo()
+        {
+            Console.WriteLine("Hola soy un metodo estatico de prueba");
+        }
+        public static int Sumar(int a, int b)
+        {
+            return a + b;
+        }
+
+        /*En toda clase abstracta se recomienda tener un:
+         * Metodo de instanciación
+         * es un metodo que permite crear un objeto para la clase abstracta el cual
+         * se basa en un objeto compatible con ella.
+         * No todas las clases abstractas tienen este metodo; pero se recomienda ponerlo.
+         * Normalmente se le nombra como getInstance y su tipo de dato es la propia clase abstracta
+         * */
+        public static SerVivo getInstance()
+        {
+            //retornar un objeto de una clase compatible con SerVivo:
+            return new Humano("sin nombre");
+        }
     }
 }
