@@ -1,0 +1,15 @@
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\15_Abstraccion2\15_Abstraccion2\bin\Debug\net8.0\15_Abstraccion2.exe
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\15_Abstraccion2\15_Abstraccion2\bin\Debug\net8.0\15_Abstraccion2.deps.json
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\15_Abstraccion2\15_Abstraccion2\bin\Debug\net8.0\15_Abstraccion2.runtimeconfig.json
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\15_Abstraccion2\15_Abstraccion2\bin\Debug\net8.0\15_Abstraccion2.dll
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\15_Abstraccion2\15_Abstraccion2\bin\Debug\net8.0\15_Abstraccion2.pdb
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\15_Abstraccion2\15_Abstraccion2\obj\Debug\net8.0\15_Abstraccion2.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\15_Abstraccion2\15_Abstraccion2\obj\Debug\net8.0\15_Abstraccion2.AssemblyInfoInputs.cache
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\15_Abstraccion2\15_Abstraccion2\obj\Debug\net8.0\15_Abstraccion2.AssemblyInfo.cs
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\15_Abstraccion2\15_Abstraccion2\obj\Debug\net8.0\15_Abstraccion2.csproj.CoreCompileInputs.cache
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\15_Abstraccion2\15_Abstraccion2\obj\Debug\net8.0\15_Abstraccion2.sourcelink.json
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\15_Abstraccion2\15_Abstraccion2\obj\Debug\net8.0\15_Abstraccion2.dll
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\15_Abstraccion2\15_Abstraccion2\obj\Debug\net8.0\refint\15_Abstraccion2.dll
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\15_Abstraccion2\15_Abstraccion2\obj\Debug\net8.0\15_Abstraccion2.pdb
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\15_Abstraccion2\15_Abstraccion2\obj\Debug\net8.0\15_Abstraccion2.genruntimeconfig.cache
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\15_Abstraccion2\15_Abstraccion2\obj\Debug\net8.0\ref\15_Abstraccion2.dll
