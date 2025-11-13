@@ -7,6 +7,10 @@ SELECT, INSERT, DELETE, UPDATE.
 
 -> Las instrucciones DML no requiere de colocar GO despues de cada una.*/
 
+--siempre es importante seleccionar la base de datos antes de comenzar
+USE Gerardo
+GO
+
 --Instruccion INSERT
 /*agrega uno o mas registros a una tabla.
 1) en INSERT se debe incluir todos los campos/columnas que sean NOT NULL (obligatorios)
@@ -93,3 +97,123 @@ WHERE PrecioVenta <= 10
 SELECT ProductoID, Codigo, Nombre, Costo, PrecioVenta, Existencias, Comentarios
 FROM Producto
 WHERE PrecioVenta BETWEEN 25 AND 40
+
+-- Instruccion DELETE: elimna uno o mas registros de una tabla dependiendo del WHERE utilizado
+/*Consideraciones:
+-> esta instruccion no altera la numeracion del campo IDENTITY, si Usted borra registros
+   el IDENTITY no regresara a la numeracion anterior.
+-> Siempre es recomendado que antes de ejecutar un DELETE primero haga una vista previa
+   usando SELECT para que tenga una idea de lo que va a eliminar.
+-> Si algun registro de la tabla tiene asociacion con otra tabla por medio de una llave foranea
+   entonces no se eliminará el registro.*/
+
+--borrar todos los registros de una tabla
+SELECT * FROM Producto --vista previa
+DELETE FROM Producto --eliminacion
+
+--eliminar todos los productos cuyo costo sea menor o igual que 10
+--vista previa:
+SELECT *
+FROM Producto
+WHERE Costo <= 10
+--eliminacion:
+DELETE
+FROM Producto
+WHERE Costo <= 10
+
+--elimine el producto cuyo id sea 34
+--vista previa:
+SELECT *
+FROM Producto
+WHERE ProductoID = 34
+--eliminacion:
+DELETE
+FROM Producto
+WHERE ProductoID = 34
+
+/*Recordatorio: DELETE no resetea ni afecta el campo IDENTITY en cambio TRUNCATE si lo hace
+pero TRUNCATE no se puede combinar con WHERE.*/
+TRUNCATE TABLE Producto
+
+-- Instruccion UPDATE: Modifica uno o varios registros de una tabla.
+/*Consideraciones:
+-> Se recomienda combinarlo con WHERE
+-> Al igual que con el DELETE se recomienda hacer una vista previa usando SELECT para saber
+   que registros va a afectar.*/
+
+--Dejar en CERO las existencias de todos los productos.
+--Vista previa:
+SELECT *
+FROM Producto
+--Actualización:
+UPDATE Producto
+SET Existencias = 0
+
+--Coloque 100 existencias al producto cuyo Codigo sea FRU1
+--Vista previa:
+SELECT *
+FROM Producto
+WHERE Codigo = 'FRU1'
+--Actualización:
+UPDATE Producto
+SET Existencias = 100
+WHERE Codigo = 'FRU1'
+
+--Tambien puede afectar varios campos:
+--coloque el costo en 10 y las existencias en 80 para el producto con id = 2
+--Vista previa:
+SELECT *
+FROM Producto
+WHERE ProductoID = 2
+--Actualización:
+UPDATE Producto
+SET Costo = 10, Existencias = 80
+WHERE ProductoID = 2
+
+--colocar en 150 las existencias para los productos con codigos: CC01, AGUA, CH01
+--Vista previa:
+SELECT *
+FROM Producto
+WHERE Codigo IN ('CC01','AGUA','CH01')
+--Actualización:
+UPDATE Producto
+SET Existencias = 150
+WHERE Codigo IN ('CC01','AGUA','CH01')
+
+--UPDATE tambien puede realizar operaciones sobre valores previos
+--aumentar en 1 las existencias del producto con codigo CC01
+--Vista previa:
+SELECT *
+FROM Producto
+WHERE Codigo = 'CC01'
+--Actualización:
+UPDATE Producto
+SET Existencias = Existencias+1
+WHERE Codigo = 'CC01'
+
+--Otros ejemplos:
+--subir los precios de todos los productos en un 10%
+--Vista previa:
+SELECT *
+FROM Producto
+--Actualización:
+UPDATE Producto
+SET PrecioVenta = PrecioVenta*1.10
+
+--agregar la palabra REVISADO a los comentarios de todos los productos.
+--Vista previa:
+SELECT *
+FROM Producto
+--Actualización:
+UPDATE Producto
+SET Comentarios = CONCAT(Comentarios,' REVISADO')
+
+--dejar en NULL el comentario del producto con codigo CC02
+--Vista previa:
+SELECT *
+FROM Producto
+WHERE Codigo = 'CC02'
+--Actualización:
+UPDATE Producto
+SET Comentarios = NULL
+WHERE Codigo = 'CC02'
