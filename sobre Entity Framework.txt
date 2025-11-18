@@ -1,0 +1,9 @@
+Entity Framework
+Es un marco de trabajo que viene en .Net a partir de
+la version 6.
+
+Este permite crear Clases e Intefaces para interactuar
+con las entidades de una base de datos (Tablas, vistas,
+Procedimientos almacenados, etc.)
+
+Entity soporta: Oracle, MySQL, SQL Server, SQLite y más.
