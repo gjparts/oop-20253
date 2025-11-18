@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "P:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\16_EntityFramework\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|P:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\16_EntityFramework\\16_EntityFramework\\Data\\GerardoContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:16_EntityFramework\\Data\\GerardoContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{590CBF61-0DAC-48B7-B6BB-6FAABB2909B9}|16_EntityFramework\\16_EntityFramework.csproj|p:\\programas unah\\2025-3\\programacion orientada a objetos\\16_entityframework\\16_entityframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{590CBF61-0DAC-48B7-B6BB-6FAABB2909B9}|16_EntityFramework\\16_EntityFramework.csproj|solutionrelative:16_entityframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GerardoContext.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\16_EntityFramework\\16_EntityFramework\\Data\\GerardoContext.cs",
+              "RelativeDocumentMoniker": "16_EntityFramework\\Data\\GerardoContext.cs",
+              "ToolTip": "P:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\16_EntityFramework\\16_EntityFramework\\Data\\GerardoContext.cs",
+              "RelativeToolTip": "16_EntityFramework\\Data\\GerardoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T15:56:15.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "P:\\Programas UNAH\\2025-3\\Programacion Orientada a Objetos\\16_EntityFramework\\16_EntityFramework\\Form1.cs",
               "RelativeDocumentMoniker": "16_EntityFramework\\Form1.cs",
