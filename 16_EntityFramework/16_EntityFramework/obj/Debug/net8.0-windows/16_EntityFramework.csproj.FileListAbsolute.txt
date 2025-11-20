@@ -141,3 +141,4 @@ P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\16_EntityFramework\16_
 P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\16_EntityFramework\16_EntityFramework\obj\Debug\net8.0-windows\16_EntityFramework.genruntimeconfig.cache
 P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\16_EntityFramework\16_EntityFramework\obj\Debug\net8.0-windows\ref\16_EntityFramework.dll
 P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\16_EntityFramework\16_EntityFramework\obj\Debug\net8.0-windows\_16_EntityFramework.Principal.resources
+P:\Programas UNAH\2025-3\Programacion Orientada a Objetos\16_EntityFramework\16_EntityFramework\obj\Debug\net8.0-windows\_16_EntityFramework.Detalle.resources

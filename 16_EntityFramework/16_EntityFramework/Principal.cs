@@ -55,6 +55,49 @@ namespace _16_EntityFramework
             Grid1.Columns["Costo"].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
             Grid1.Columns["PrecioVenta"].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
             Grid1.Columns["Existencias"].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
+
+            //dar formato de miles a las columnas de numeros (mascara de entrada)
+            Grid1.Columns["Costo"].DefaultCellStyle.Format = "#,###,##0.00";
+            Grid1.Columns["PrecioVenta"].DefaultCellStyle.Format = "#,###,##0.00";
+            Grid1.Columns["Existencias"].DefaultCellStyle.Format = "#,###,##0.00";
+            Grid1.Columns["ProductoID"].DefaultCellStyle.Format = "00000000";
+
+            //mandar a ejecutar el metodo del evento SizeChanged:
+            //para autoajustar los anchos de columnas
+            this.Principal_SizeChanged(null, null);
+        }
+
+        private void Principal_SizeChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                //en caso de no haber coliumnas termina el evento
+                if (Grid1.Columns.Count == 0) return;
+
+                //establecer los anchos de las columnas del grid
+                //columnas de ancho fijo:
+                Grid1.Columns["ProductoID"].Width = 80; //pixels
+                Grid1.Columns["Codigo"].Width = 70;
+                Grid1.Columns["Costo"].Width = 65;
+                Grid1.Columns["PrecioVenta"].Width = 65;
+                Grid1.Columns["Existencias"].Width = 65;
+
+                //columnas de ancho ajustable de acuerdo al ancho del grid:
+                Grid1.Columns["Nombre"].Width = Grid1.Width * 30 / 100; //30% del ancho del grid
+                Grid1.Columns["Comentarios"].Width = Grid1.Width * 45 / 100; //45% del ancho del grid
+            }
+            catch (Exception)
+            {
+                //no mostrar mensajes en caso de falla
+            }
+        }
+
+        private void botonAgregar_Click(object sender, EventArgs e)
+        {
+            //crear un objeto de clase Detalle y dibujarlo en la pantalla
+            Detalle d = new Detalle();
+            //dibujar el Form del objeto de forma Modal
+            d.ShowDialog();
         }
     }
 }
