@@ -1,3 +1,5 @@
+using _16_EntityFramework.Models;
+
 namespace _16_EntityFramework
 {
     public partial class Principal : Form
@@ -8,7 +10,7 @@ namespace _16_EntityFramework
         }
 
         //Metodo para cargar datos desde la base de datos
-        public void CargarDatos()
+        public bool CargarDatos()
         {
             try
             {
@@ -17,17 +19,22 @@ namespace _16_EntityFramework
 
                 //Mostrar los datos y todas las columnas
                 Grid1.DataSource = contexto.Productos.ToList();
+
+                //si llego hasta aqui la carga de datos fue exitosa
+                return true;
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
+                //si llego aqui es porque la carga de datos ha fallado
+                return false;
             }
         }
 
         private void Principal_Load(object sender, EventArgs e)
         {
             //al dibujar el form:
-            CargarDatos();
+            if (CargarDatos() == false) return; //si cargar datos falla entonces termina el evento Load
 
             //Personalizar Grid1
             //modo de seleccion: fila completa
@@ -98,6 +105,75 @@ namespace _16_EntityFramework
             Detalle d = new Detalle();
             //dibujar el Form del objeto de forma Modal
             d.ShowDialog();
+
+            //se ha cerrado la ventana de detalle, verificamos
+            //si se hizo click en Aceptar:
+            if (d.DialogResult == DialogResult.OK)
+            {
+                try
+                {
+                    //Importante: debe importar a Models arriba de la clase
+                    //Crear un nuevo objeto de clase Producto
+                    Producto registro = new Producto();
+                    //No olvide hacer Public la propiedad Modifiers de las cajas de texto
+                    //en el form de Detalle
+                    registro.Codigo = d.Codigo.Text.Trim();
+                    registro.Nombre = d.Nombre.Text.Trim();
+                    registro.Costo = decimal.Parse(d.Costo.Text);
+                    registro.PrecioVenta = decimal.Parse(d.PrecioVenta.Text);
+                    registro.Existencias = int.Parse(d.Existencias.Text);
+                    registro.Comentarios = d.Comentarios.Text.Trim();
+
+                    //Crear objeto para tener acceso al contexto de la base de datos
+                    Data.GerardoContext contexto = new Data.GerardoContext();
+
+                    //Agregar el producto al contexto
+                    contexto.Productos.Add(registro);
+                    //Escribir los cambios en la base de datos
+                    contexto.SaveChanges();
+                    //cargar de nuevo los datos en el grid
+                    this.CargarDatos();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
+            }
+            //destruir el form Detalle de la memoria
+            d.Dispose();
+        }
+
+        private void botonEditar_Click(object sender, EventArgs e)
+        {
+            //si no hay filas en el Grid no continua
+            if (Grid1.RowCount == 0) return;
+
+            try
+            {
+                //Crear objeto para tener acceso al contexto de la base de datos
+                Data.GerardoContext contexto = new Data.GerardoContext();
+
+                //Buscar el objeto del Producto cuyo ProductoID sea el seleccionado en el Grid:
+                Producto registro = contexto.Productos.Find(Grid1.CurrentRow.Cells["ProductoID"].Value);
+                if (registro == null) return; //en caso de no encontrar el producto termina
+
+                //crear un form Detalle
+                Detalle d = new Detalle();
+                //antes de mostrar el form, llenar las cajas de texto
+                //con los datos del producto recuperado desde la base de datos
+                d.Codigo.Text = registro.Codigo;
+                d.Nombre.Text = registro.Nombre;
+                d.Costo.Text = registro.Costo.ToString();
+                d.PrecioVenta.Text = registro.PrecioVenta.ToString();
+                d.Existencias.Text = registro.Existencias.ToString();
+                d.Comentarios.Text = registro.Comentarios;
+
+                d.ShowDialog();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
     }
 }
