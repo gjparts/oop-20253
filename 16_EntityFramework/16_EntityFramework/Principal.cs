@@ -169,10 +169,66 @@ namespace _16_EntityFramework
                 d.Comentarios.Text = registro.Comentarios;
 
                 d.ShowDialog();
+
+                //se ha cerrado la ventana de detalle, verificamos si se hizo click
+                //en Aceptar:
+                if (d.DialogResult == DialogResult.OK)
+                {
+                    //colocar los nuevos valores de las cajas de texto dentro del registro
+                    //del producto encontrado
+                    registro.Codigo = d.Codigo.Text.Trim();
+                    registro.Nombre = d.Nombre.Text.Trim();
+                    registro.Costo = decimal.Parse(d.Costo.Text);
+                    registro.PrecioVenta = decimal.Parse(d.PrecioVenta.Text);
+                    registro.Existencias = int.Parse(d.Existencias.Text);
+                    registro.Comentarios = d.Comentarios.Text.Trim();
+
+                    //Cambiar el estado del registro a modificado
+                    contexto.Entry(registro).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+
+                    //escribir los cambios en la base de datos
+                    contexto.SaveChanges();
+                    //cargar los datos del grid
+                    this.CargarDatos();
+                }
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
+            }
+        }
+
+        private void botonEliminar_Click(object sender, EventArgs e)
+        {
+            //si no hay filas en el Grid no continua
+            if (Grid1.RowCount == 0) return;
+
+            //preguntar al usuario si desea eliminar
+            DialogResult respuesta = MessageBox.Show("Desea eliminar el registro?", "Eliminar", MessageBoxButtons.YesNo);
+
+            if( respuesta == DialogResult.Yes )
+            {
+                try
+                {
+                    //crear un  objeto para tener acceso al contexto de la bd
+                    Data.GerardoContext contexto = new Data.GerardoContext();
+
+                    //Buscar el Producto cuyo ProductoID sea el seleccionado en el Grid:
+                    Producto registro = contexto.Productos.Find(Grid1.CurrentRow.Cells["ProductoID"].Value);
+                    if (registro == null) return; //en caso de no encontrar el producto termina
+
+                    //Marcar el registro paea su eliminacion
+                    contexto.Productos.Remove(registro);
+
+                    //escribir los cambios en la base de datos
+                    contexto.SaveChanges();
+                    //cargar los datos del grid
+                    this.CargarDatos();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
             }
         }
     }
